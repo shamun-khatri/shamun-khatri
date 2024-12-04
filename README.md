@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Shamun Khatri]!
 
-<a href='https://www.linkedin.com/in/your-linkedin-profile/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/your-twitter-profile/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/shamun-khatri/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://x.com/shamunkhatri'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 
 I am a passionate developer and tech enthusiast who enjoys exploring new technologies 💻 and turning ideas into reality 🛠️. Whether it's building full-stack web applications, experimenting with machine learning, or designing user-friendly interfaces, I love to dive in and make an impact!  
 <br/>
