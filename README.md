@@ -7,18 +7,18 @@ I am a passionate developer and tech enthusiast who enjoys exploring new technol
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<!-- image here -->
 
 ---
 
 ### 🧐 More About Me:
-- 🔭 &nbsp; I’m currently working on **[Your Current Project Name]**
+- 🔭 &nbsp; I’m currently working on **Msgify**
 - 🤝 &nbsp; I’m looking to collaborate on **[Your Open Project Name]**
 - 🌱 &nbsp; I’m currently learning **[Your Current Tech/Framework]**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/shamun-khatri?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech-related, I’d love to help!
-- 📫 &nbsp; Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- 📝 &nbsp; Check out my [Resume](https://your-resume-link.com)  
+- 📫 &nbsp; Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shamun-khatri/)
+- 📝 &nbsp; Check out my [Resume](https://drive.google.com/file/d/1LaD0Hh_5h8ZkIK4w9ABF1mgnODRc8SFJ/view)  
 
 ---
 
@@ -42,15 +42,6 @@ I am a passionate developer and tech enthusiast who enjoys exploring new technol
 
 ![shamun-khatri's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamun-khatri&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
- 
+
 [//]: # (<a href="https://www.shamunkhatri.me/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=shamun-khatri&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>)
 
-
-[//]: # (This is a comment.)
-[//]: # (This is a comment on a new line.)
-
-### ✨ Customize
-1. Replace placeholders like `[Your Name]`, `shamun-khatri`, and project links with your details.
-2. Upload your project logos or icons in the `/projects/` directory and link them properly.
-
-Save this content in a file named `README.md` in your GitHub repository to display it on your profile page!
