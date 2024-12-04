@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Shamun Khatri]!
+## Hey 👋, I'm Shamun Khatri!
 
 <a href='https://www.linkedin.com/in/shamun-khatri/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://x.com/shamunkhatri'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
@@ -13,8 +13,8 @@ I am a passionate developer and tech enthusiast who enjoys exploring new technol
 
 ### 🧐 More About Me:
 - 🔭 &nbsp; I’m currently working on **Msgify**
-- 🤝 &nbsp; I’m looking to collaborate on **[Your Open Project Name]**
-- 🌱 &nbsp; I’m currently learning **[Your Current Tech/Framework]**
+- 🤝 &nbsp; I’m looking to collaborate on **portfolio-admin**
+- 🌱 &nbsp; I’m currently learning **Hono w/Cloudflare Workers**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/shamun-khatri?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech-related, I’d love to help!
 - 📫 &nbsp; Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shamun-khatri/)
