@@ -18,7 +18,7 @@ I am a passionate developer and tech enthusiast who enjoys exploring new technol
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/shamun-khatri?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech-related, I’d love to help!
 - 📫 &nbsp; Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shamun-khatri/)
-- 📝 &nbsp; Check out my [Resume](https://drive.google.com/file/d/1LaD0Hh_5h8ZkIK4w9ABF1mgnODRc8SFJ/view)  
+- 📝 &nbsp; Check out my [Resume](https://drive.google.com/file/d/1LaD0Hh_5h8ZkIK4w9ABF1mgnODRc8SFJ/view?usp=sharing)  
 
 ---
 
